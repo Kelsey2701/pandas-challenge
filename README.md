@@ -1,2 +1,10 @@
 # Pandas Challenge
+In this challenge we were asked to make a variety of different calculatations to help the school board and mayor make strategic decisions regarding future school budgets and priorities.
 ## Analysis Summary 
+Some key elements I noticed in the trends were that small (<1000 students) and Medium (1000-2000 students) had very similar scores and passing rates. The school size trend mainly demonstrated that schools equal to or less than 2000 students had better average performances in math score, reading score and overall passing rates. Further looking at arguably one of the most important trends, over passing percentage, charter schools held all the top five spots while district schools held the bottom five spots. This suggests that charter schools have better passing percentages than the district schools. The districts budget of over $24 million is allocated to between each of the schools with the lowest passing rates to be recieving some of the most money; however, it is interesing to note that some of the lowest allocations of the budget are the highest preforming. In summary, Smaller Charter schools are ranking the highest within the district while Larger District school are amoung the lowest with little variation between grade levels in scores. 
+## Quick Key Findings
+- Average Math Preformance: Small schools out preformed both Medium and Large schools with an average math score of 83.821
+- Average Reading Preformance: Small schools slightly prefermed better than Medium and Large schools with average reading score of 83.896
+- Overall Passing Rates: Medium schools sigingicantly out preformed Large schools (58.286) and slightly preformed better than Small schools (89.884) with a score of 90.621
+- Top five ranking schools based on overall passing percent: Cabrera High School, Thomas High School, Griffin High School, Wlson  High School and Pena High School
+- Bottom five ranking schools based on overall passing percent: Rodriguez High School, Figueroa High School, Huang High School, Hernandez High School and Johnson High School
